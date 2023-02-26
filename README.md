@@ -1,2 +1,2 @@
 # num-to-roman-numeral
-Converts numbers to Roman numerals
+Simple app that converts numbers to Roman numerals.
